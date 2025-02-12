@@ -90,7 +90,7 @@ This is a RESTful API for managing tasks, built with Laravel 10.x. It supports e
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AhmedHamdy7/Be-Group-Task.git
    cd TaskManager
 
 2. **Install dependencies::**
