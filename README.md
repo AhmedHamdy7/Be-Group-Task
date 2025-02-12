@@ -85,6 +85,7 @@ This is a RESTful API for managing tasks, built with Laravel 10.x. It supports e
 - PHP 8.1 or higher
 - Composer
 - MySQL or another supported database
+- Open Readme.md File from Visual Studio code
 
 ## Installation
 
